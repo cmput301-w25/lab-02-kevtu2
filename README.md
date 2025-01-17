@@ -13,5 +13,5 @@ https://developer.android.com/reference/android/widget/Button
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Deryk Fong` | `dfong2`  |
 | `<Add more>` | `<CCID>`  |
